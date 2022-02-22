@@ -18,7 +18,8 @@ function App() {
         >
           Learn React
         </a>
-      <Car />
+      <Car color='red'/>
+      <Car color='blue'/>
 
       </header>
     </div>
